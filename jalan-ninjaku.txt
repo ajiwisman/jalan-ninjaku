@@ -2,4 +2,4 @@ resolusi
 - konsisten belajar python
 - membuat aplikasi dari python
 
-- buat game dari python
+- langsung jual gamenya
